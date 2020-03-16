@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--File di salvataggio dell'applicazione. Non modificare a mano.-->
+<root>
+    <Auto tipo="Sport">
+        <nome>Audi A3</nome>
+        <cv>100</cv>
+        <velocità>200,00</velocità>
+        <trazione>Anteriore</trazione>
+    </Auto>
+    <Auto tipo="OffRoad">
+        <nome>Fiat Panda</nome>
+        <cv>10</cv>
+        <altezza>17,00</altezza>
+    </Auto>
+    <Auto tipo="Sport">
+        <nome>Bugatti Veyron</nome>
+        <cv>800</cv>
+        <velocità>408,00</velocità>
+        <trazione>Integrale</trazione>
+    </Auto>
+    <Auto tipo="Vintage">
+        <nome>Wolkswagen Maggiolino</nome>
+        <cv>5</cv>
+        <anno>1945</anno>
+    </Auto>
+    <Auto tipo="Vintage">
+        <nome>Ferrari Testarossa</nome>
+        <cv>85</cv>
+        <anno>1984</anno>
+    </Auto>
+    <Auto tipo="Rally">
+        <nome>Subaru Impreza </nome>
+        <cv>200</cv>
+        <velocità>220,00</velocità>
+        <trazione>Integrale</trazione>
+        <cambio>Sequenziale</cambio>
+    </Auto>
+    <Auto tipo="Rally">
+        <nome>Hiundai i20</nome>
+        <cv>150</cv>
+        <velocità>270,00</velocità>
+        <trazione>Integrale</trazione>
+        <cambio>Manuale</cambio>
+    </Auto>
+    <Auto tipo="OffRoad">
+        <nome>Mercedes 4x4</nome>
+        <cv>140</cv>
+        <altezza>30,00</altezza>
+    </Auto>
+</root>

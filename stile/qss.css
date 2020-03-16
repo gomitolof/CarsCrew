@@ -1,0 +1,77 @@
+#title{
+    font-size:13pt;
+    margin-top:0em;
+    font-weight:520;
+}
+
+#distance{
+    margin-bottom:1em;
+    width:12em;
+}
+
+#distanceGear{
+    margin-bottom:1em;
+}
+
+#clearbutton {
+    font-size: 12pt;
+    width: 1.2em;
+    height:1em;
+    padding: 0.2px;
+    margin: 1px 0;
+}
+
+QMenuBar{
+    margin-bottom:2em;
+}
+
+QLabel{
+    font-size:11pt;
+}
+
+QListWidget{
+    font-size: 12pt;
+    font-family: Arial;
+}
+
+QListView::item:selected {
+    background-color: lightblue;
+    color: black;
+}
+
+QListView::item {
+    border: 1px dotted lightgray;
+    padding: 2px;
+}
+
+QPushButton{
+    font-size: 11pt;
+}
+
+QMenuBar {
+    font-size: 11pt;
+}
+
+QCheckBox{
+    font-size: 15pt;
+}
+
+QSpinBox{
+    font-size: 11pt;
+    padding:0 8px 0 8px;
+}
+
+QDoubleSpinBox{
+    font-size: 11pt;
+    padding:0 8px 0 8px;
+}
+
+QComboBox{
+    font-size: 11pt;
+    padding:0 8px 0 8px;
+}
+
+QLineEdit {
+    font-size: 11pt;
+    padding:0 8px 0 8px;
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--File di salvataggio dell'applicazione. Non modificare a mano.-->
+<root>
+    <Auto tipo="OffRoad">
+        <nome>Porsche Cayen</nome>
+        <cv>80</cv>
+        <altezza>22,00</altezza>
+    </Auto>
+    <Auto tipo="Sport">
+        <nome>Lamborghini turbo</nome>
+        <cv>600</cv>
+        <velocità>330,00</velocità>
+        <trazione>Posteriore</trazione>
+    </Auto>
+</root>
